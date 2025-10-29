@@ -24,9 +24,9 @@ La organización del proyecto se adhiere a una estructura modular para facilitar
 
 pre-entrega-automation-testing--Belen_Lopez-
 ├── test/ 
-│     ├── test_login.py         # Pruebas relacionadas con el Login. 
-│     ├── test_inventory.py     # Pruebas de Inventario y Elementos. 
-│     └── test_productos.py     # Pruebas de Carrito y Flujo de Productos.
+│    test_login.py         # Pruebas relacionadas con el Login. 
+│    test_inventory.py     # Pruebas de Inventario y Elementos. 
+│    test_productos.py     # Pruebas de Carrito y Flujo de Productos.
 │ 
 ├── utils.py                # Funciones Login (Inicialización de Chrome/Driver). 
 ├── conftest.py             # Hooks de Pytest, fixtures. 
