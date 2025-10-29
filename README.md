@@ -23,21 +23,22 @@ Git & GitHub	Sistema de control de versiones y hosting del código fuente.
 La organización del proyecto se adhiere a una estructura modular para facilitar la escalabilidad y el mantenimiento:
 
 pre-entrega-automation-testing--Belen_Lopez-
-├── test/ 
-│    test_login.py         # Pruebas relacionadas con el Login. 
-│    test_inventory.py     # Pruebas de Inventario y Elementos. 
-│    test_productos.py     # Pruebas de Carrito y Flujo de Productos.
-│ 
-├── utils.py                # Funciones Login (Inicialización de Chrome/Driver). 
-├── conftest.py             # Hooks de Pytest, fixtures. 
-├── report.html             # Reporte final generado por pytest. 
-├── README.md               # Describe las funcionalidades del programa. 
-├── run_tests.py            # Archivo main para la ejecución de los tests. 
-└── requirements.txt        # Listado de dependencias del proyecto.
+ °test/ 
+ test_login.py         # Pruebas relacionadas con el Login. 
+ test_inventory.py     # Pruebas de Inventario y Elementos. 
+ test_productos.py     # Pruebas de Carrito y Flujo de Productos.
+ 
+ utils.py                # Funciones Login (Inicialización de Chrome/Driver). 
+ conftest.py             # Hooks de Pytest, fixtures. 
+ report.html             # Reporte final generado por pytest. 
+ README.md               # Describe las funcionalidades del programa. 
+ run_tests.py            # Archivo main para la ejecución de los tests. 
+ requirements.txt        # Listado de dependencias del proyecto.
 ⚙️ Configuración e Instalación
 
 Clonar el Repositorio
-    
+
+    °https://github.com/belenlopez98-ux/pre-entrega-automation-testing--Belen_Lopez-.git
 
    
 
